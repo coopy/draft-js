@@ -56,6 +56,8 @@ var inlineTags = {
   s: 'STRIKETHROUGH',
   strike: 'STRIKETHROUGH',
   strong: 'BOLD',
+  sub: 'SUBSCRIPT',
+  sup: 'SUPERSCRIPT',
   u: 'UNDERLINE',
 };
 
